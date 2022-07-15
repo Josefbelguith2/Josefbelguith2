@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=Josefbelguith2&color=blueviolet)
-
+</p>
 
 <!--
 **Josefbelguith2/Josefbelguith2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
