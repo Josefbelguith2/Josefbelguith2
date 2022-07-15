@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Josefbelguith2&color=blueviolet)
 
+<br />
+[![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fabhinavrobinson.github.io)](https://josefbelguith2.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-abhinavrobinson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-robinson-576429171i/)](https://www.linkedin.com/in/youssef-belguith-blockchain/)
+[![Gmail Badge](https://img.shields.io/badge/-youssef.belguith2001@gmail.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youssef.belguith2001@gmail.co)](mailto:youssef.belguith2001@gmail.com)
+<br />
+
 <!--
 **Josefbelguith2/Josefbelguith2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
